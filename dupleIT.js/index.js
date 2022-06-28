@@ -33,3 +33,4 @@ let weather ={
    
    //59ae2a7d4629941c9df3fe8070aa8f08
    // http://api.openweathermap.org/data/2.5/weather?q=${place}&appid=${id}
+   //////////////////////////////////////////////////////////////
